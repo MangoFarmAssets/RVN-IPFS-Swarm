@@ -7,7 +7,7 @@ ipfs swarm connect /ip4/3.214.126.159/tcp/4001/p2p/QmReEgiWTxCUpgYZARCLZCmoWpwP2
 ipfs bootstrap add /ip4/54.160.162.24/tcp/4001/p2p/QmU7F4Y7KJwuXbRJm68bPBghSwCKMHnCeqSCXzjzwDLF9d
 ipfs swarm connect /ip4/54.160.162.24/tcp/4001/p2p/QmU7F4Y7KJwuXbRJm68bPBghSwCKMHnCeqSCXzjzwDLF9d
 
-#Mango Farm Viewer
+#Mango Farm Asset Viewer
 ipfs bootstrap add /ip4/138.207.64.80/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
 ipfs swarm connect /ip4/138.207.64.80/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
 
