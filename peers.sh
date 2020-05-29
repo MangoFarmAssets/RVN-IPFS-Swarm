@@ -1,13 +1,13 @@
 #!/bin/bash
-#Gateway.Ravencoinipfs.com
-ipfs bootstrap add /ip4/3.214.126.159/tcp/4001/p2p/QmdBoHGLhLqe3ZxT2mk494EeNq9yaCJvEwitBY7urqKdZc
-ipfs swarm connect /ip4/3.214.126.159/tcp/4001/p2p/QmdBoHGLhLqe3ZxT2mk494EeNq9yaCJvEwitBY7urqKdZc
+#Gateway.Ravencoinipfs.com and Gateway.Mangofarmassets.com
+ipfs bootstrap add /ip4/3.214.126.159/tcp/4001/p2p/QmReEgiWTxCUpgYZARCLZCmoWpwP2A3Z3Le8q2Ye5Zb64d
+ipfs swarm connect /ip4/3.214.126.159/tcp/4001/p2p/QmReEgiWTxCUpgYZARCLZCmoWpwP2A3Z3Le8q2Ye5Zb64d
 
 #Ravencoinipfs.com
 ipfs bootstrap add /ip4/54.160.162.24/tcp/4001/p2p/QmU7F4Y7KJwuXbRJm68bPBghSwCKMHnCeqSCXzjzwDLF9d
 ipfs swarm connect /ip4/54.160.162.24/tcp/4001/p2p/QmU7F4Y7KJwuXbRJm68bPBghSwCKMHnCeqSCXzjzwDLF9d
 
-#Mango Farm
+#Mango Farm Viewer
 ipfs bootstrap add /ip4/138.207.64.80/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
 ipfs swarm connect /ip4/138.207.64.80/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
 
