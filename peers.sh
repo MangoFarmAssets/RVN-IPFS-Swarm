@@ -8,8 +8,8 @@ ipfs bootstrap add /ip4/54.160.162.24/tcp/4001/p2p/QmU7F4Y7KJwuXbRJm68bPBghSwCKM
 ipfs swarm connect /ip4/54.160.162.24/tcp/4001/p2p/QmU7F4Y7KJwuXbRJm68bPBghSwCKMHnCeqSCXzjzwDLF9d
 
 #Mango Farm Asset Viewer
-ipfs bootstrap add /ip4/138.207.64.80/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
-ipfs swarm connect /ip4/138.207.64.80/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
+ipfs bootstrap add /ip4/18.206.81.142/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
+ipfs swarm connect /ip4/18.206.81.142/tcp/4001/ipfs/QmeAif8Gjsw22vUgHUtiAfgQvzXWoEKY5eashGiWGFExyA
 
 #Ravenland
 #Germany
